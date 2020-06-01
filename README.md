@@ -1,2 +1,2 @@
 # IPZ
-Сайт для KPI Restaurant
+Restaurant Site
